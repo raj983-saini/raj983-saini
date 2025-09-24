@@ -5,7 +5,6 @@
 📫 How to reach me:
 Email: yuvrajsaini389@gmail.com
 Mobile: 9991145796
-😄 Pronouns: He/Him
 ⚡ Fun fact: I enjoy solving complex coding challenges and learning new technologies.
 
 <!---
